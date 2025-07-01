@@ -1,0 +1,21 @@
+# Flutter 官方推荐忽略规则
+**/android/app/build
+**/android/build
+**/ios/**/build
+**/ios/**/*.mode1v3
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+
+# 通用忽略规则
+/build/
+/.dart_tool/
+/.idea/
+/.vscode/
+/.gradle/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.metadata
+*.iml
+*.log
+*.lock
+*.DS_Store
